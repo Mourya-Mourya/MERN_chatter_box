@@ -4,7 +4,7 @@ Welcome all again this a new project in **MERN Stack**
 
 A project where it works like a real time chat application.
 
-**Step:1 **
+**Step:1**
   npm install
 
 **Step:2** 
